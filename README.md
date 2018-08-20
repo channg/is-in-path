@@ -1,5 +1,4 @@
 # is-in-path
----
 
 > Whether a file or directory exists in a directory
 
