@@ -1,6 +1,6 @@
 # is-in-path
 
-<a href="https://www.npmjs.com/package/zcoil"><img alt="npm" src="https://img.shields.io/npm/v/is-in-path.svg?style=flat-square"></a>
+<a href="https://www.npmjs.com/package/is-in-path"><img alt="npm" src="https://img.shields.io/npm/v/is-in-path.svg?style=flat-square"></a>
 
 > Whether a file or directory exists in a directory
 
